@@ -19,7 +19,7 @@ const styles = StyleSheet.create({
 
   masterContainer: {
     flex: 1,
-    backgroundColor:'#f00',
+    backgroundColor:'#fff',
     paddingTop:30,
 },
     
